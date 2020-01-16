@@ -1,0 +1,9 @@
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\obj\Debug\Chapter6ProgramOddEven.csprojAssemblyReference.cache
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\obj\Debug\Chapter6ProgramOddEven.Form1.resources
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\obj\Debug\Chapter6ProgramOddEven.Properties.Resources.resources
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\obj\Debug\Chapter6ProgramOddEven.csproj.GenerateResource.cache
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\bin\Debug\Chapter6ProgramOddEven.exe.config
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\bin\Debug\Chapter6ProgramOddEven.exe
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\bin\Debug\Chapter6ProgramOddEven.pdb
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\obj\Debug\Chapter6ProgramOddEven.exe
+C:\Roman VS\Chapter6ProgramOddEven\Chapter6ProgramOddEven\obj\Debug\Chapter6ProgramOddEven.pdb
