@@ -1,0 +1,108 @@
+// For rock button
+
+int userinput = 1;
+int computer input = 1;
+
+Random my RndNumber = new Random();
+computerinput = myRndNumber.Next(1, 4);
+if (userinput == 1 && computerinput == 1)
+{
+	txtResult.Text = "Game Draw!!! Try again! ";
+	computerR.Visible = true;
+	computerP.Visible = false;
+	computerS.Visible = false;
+}
+
+else if (userinput == 1 && computerinput == 2)
+{
+	 txtResult.Text = " You Lose! ";
+	computerR.Visible = false;
+	computerP.Visible = true;
+	computerS.Visible = false;
+}
+else if (userinput == 1 && computerinput == 3)
+{
+	txtResult.Text = " You Win! ";
+	computerR.Visible = false;
+	computerP.Visible = false;
+	computerS.Visible = true;
+}
+
+// For Paper button
+
+int userinput = 2;
+int computer input = 2;
+
+Random my RndNumber = new Random();
+computerinput = myRndNumber.Next(1, 4);
+if (userinput == 2 && computerinput == 1)
+{
+	txtResult.Text = " You Win! "
+	computerR.Visible = true;
+	computerP.Visible = false;
+	computerS.Visible = false;
+}
+
+else if (userinput == 2 && computerinput == 2)
+{
+	txtResult.Text = " Game Draw!!! Try again! "
+	computerR.Visible = false;
+	computerP.Visible = true;
+	computerS.Visible = false;
+}
+
+else if (userinput == 2 && computerinput == 3)
+{
+	txtResult.Text = " You Lose! "
+	computerR.Visible = false;
+	computerP.Visible = false;
+	computerS.Visible = true;
+}
+
+//For scissor button
+
+int userinput = 3;
+int computer input = 3;
+
+Random my RndNumber = new Random();
+computerinput = myRndNumber.Next(1, 4);
+if (userinput == 3 && computerinput == 1)
+{
+	txtResult.Text = " You Lose! "
+	computerR.Visible = true;
+	computerP.Visible = false;
+	computerS.Visible = false;
+}
+
+else if (userinput == 3 && computerinput == 2)
+{
+	txtResult.Text = " You Win! "
+	computerR.Visible = false;
+	computerP.Visible = true;
+	computerS.Visible = false;
+}
+
+else if (userinput == 3 && computerinput == 3)
+{
+	txtResult.Text = " Game Draw!!! Try again! "
+	computerR.Visible = false;
+	computerP.Visible = false;
+	computerS.Visible = true;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
