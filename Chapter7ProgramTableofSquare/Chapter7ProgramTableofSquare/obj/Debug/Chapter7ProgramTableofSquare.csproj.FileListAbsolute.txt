@@ -1,0 +1,9 @@
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\obj\Debug\Chapter7ProgramTableofSquare.csprojAssemblyReference.cache
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\obj\Debug\Chapter7ProgramTableofSquare.Form1.resources
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\obj\Debug\Chapter7ProgramTableofSquare.Properties.Resources.resources
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\obj\Debug\Chapter7ProgramTableofSquare.csproj.GenerateResource.cache
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\bin\Debug\Chapter7ProgramTableofSquare.exe.config
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\bin\Debug\Chapter7ProgramTableofSquare.exe
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\bin\Debug\Chapter7ProgramTableofSquare.pdb
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\obj\Debug\Chapter7ProgramTableofSquare.exe
+C:\Roman VS\Chapter7ProgramTableofSquare\Chapter7ProgramTableofSquare\obj\Debug\Chapter7ProgramTableofSquare.pdb
