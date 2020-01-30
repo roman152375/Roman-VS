@@ -16,6 +16,7 @@ namespace FinalExamPractise
             SolutionProblem2(80, 75, 68);
             SolutionProblem3(55495);
             SolutionProblem5("gfsfasesfge");
+            SolutionProblem4(1);
             Console.ReadKey();
         }
         // all of the methods you write are static
@@ -53,6 +54,8 @@ namespace FinalExamPractise
                 Console.WriteLine("An error occured!");
             }
         }
+
+       
 
         static void SolutionProblem2(float quiz, float mid, float final)
         {
@@ -105,7 +108,29 @@ namespace FinalExamPractise
                 Console.WriteLine("An error occured");
             }
         }
-        
+
+        static void SolutionProblem4 (int input )
+        {
+            try
+            {
+                for (input = 1; input <= 122; input++)
+                {
+
+                    Console.Write(" " + input + "=" + (char)input);
+                    if(input % 10 ==  0)
+                    {
+                        Console.WriteLine();
+                    }
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occured.");
+            }
+        }
+
+
         static void SolutionProblem5(string input)
         {
             try
