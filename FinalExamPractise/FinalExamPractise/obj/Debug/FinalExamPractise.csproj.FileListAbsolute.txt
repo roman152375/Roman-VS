@@ -1,0 +1,6 @@
+C:\Roman VS\FinalExamPractise\FinalExamPractise\obj\Debug\FinalExamPractise.csprojAssemblyReference.cache
+C:\Roman VS\FinalExamPractise\FinalExamPractise\bin\Debug\FinalExamPractise.exe.config
+C:\Roman VS\FinalExamPractise\FinalExamPractise\bin\Debug\FinalExamPractise.exe
+C:\Roman VS\FinalExamPractise\FinalExamPractise\bin\Debug\FinalExamPractise.pdb
+C:\Roman VS\FinalExamPractise\FinalExamPractise\obj\Debug\FinalExamPractise.exe
+C:\Roman VS\FinalExamPractise\FinalExamPractise\obj\Debug\FinalExamPractise.pdb
