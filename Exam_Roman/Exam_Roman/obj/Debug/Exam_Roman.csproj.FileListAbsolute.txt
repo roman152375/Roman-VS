@@ -1,0 +1,6 @@
+C:\Roman VS\Exam_Roman\Exam_Roman\bin\Debug\Exam_Roman.exe.config
+C:\Roman VS\Exam_Roman\Exam_Roman\bin\Debug\Exam_Roman.exe
+C:\Roman VS\Exam_Roman\Exam_Roman\bin\Debug\Exam_Roman.pdb
+C:\Roman VS\Exam_Roman\Exam_Roman\obj\Debug\Exam_Roman.csprojAssemblyReference.cache
+C:\Roman VS\Exam_Roman\Exam_Roman\obj\Debug\Exam_Roman.exe
+C:\Roman VS\Exam_Roman\Exam_Roman\obj\Debug\Exam_Roman.pdb
